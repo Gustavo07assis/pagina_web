@@ -1,4 +1,13 @@
-body{
+body {
     background-color: rgb(238, 31, 8);
     font-family: Oswald, cursive;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    border:double
+    border-botton|: 
 }
